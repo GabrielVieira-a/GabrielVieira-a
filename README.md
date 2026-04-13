@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full-Stack em formação`**
 
-Me chamo Gabriel Vieira, tenho 19 anos e sou natural de Fortaleza, Ceará. Concluí o ensino médio no Instituto Federal do Ceará (IFCE). Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza (UNIFOR), realizando o curso de Full-Stack na Digital College, além de conhecimentos e estudos de forma autodidata. Sou um completo apaixonado pela área de tecnologia e desenvolvimento.
+Me chamo Gabriel Vieira, tenho 20 anos e sou natural de Fortaleza, Ceará. Concluí o ensino médio no Instituto Federal do Ceará (IFCE). Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza (UNIFOR), realizando o curso de Full-Stack na Digital College, além de conhecimentos e estudos de forma autodidata. Sou um completo apaixonado pela área de tecnologia e desenvolvimento.
 
 ---
 
